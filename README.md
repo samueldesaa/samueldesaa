@@ -15,14 +15,14 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!-- ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldesaa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldesaa&layout=compact&theme=aura"/>
 </p>
 
----
+--- -->
 
 ## 🔥 Streak de contribuições
 
