@@ -1,0 +1,23 @@
+name: Atualizar métricas de desenvolvimento
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: atualizar-readme-perfil
+  cancel-in-progress: false
+
+jobs:
+  atualizar-metricas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Atualizar métricas do WakaTime
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "True"
+          LOCALE: "pt"

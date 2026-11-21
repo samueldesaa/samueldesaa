@@ -1,0 +1,26 @@
+name: Atualizar atividade no GitHub
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: atualizar-readme-perfil
+  cancel-in-progress: false
+
+jobs:
+  atualizar-atividade:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Atualizar registro de atividade
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: samueldesaa
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          EVENT_LIMIT: 10
+          OUTPUT_STYLE: MARKDOWN
+          README_PATH: README.md

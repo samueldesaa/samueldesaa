@@ -1,94 +1,88 @@
-# 👋 Olá, eu sou o Samuel!
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F7C873&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+em+evolução;Apaixonado+por+tecnologia+e+robótica;Sempre+aprendendo+coisas+novas!" />
+# Olá, eu sou Samuel 👋
+
+### Sistemas de Informação · Desenvolvimento Front-end · Robótica e Sistemas Embarcados
+
+<p>
+  <a href="https://lattes.cnpq.br/2614892772305367"><img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-Acesse-00A86B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Acesse meu Currículo Lattes"></a>
+  <a href="https://github.com/samueldesaa?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Explore-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus projetos"></a>
+  <a href="https://www.linkedin.com/in/samuel-chaves-de-s%C3%A1-6805b91bb/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"></a>
+  <a href="mailto:samueldsa03032005@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale_comigo-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail"></a>
 </p>
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** no IFMA  
-- 💻 Monitor no **Embarcatech**  
-- 🤖 Integrante da equipe de robótica [**Team Two**](https://github.com/Team-Two-Maker)  
-- 🚀 Sempre explorando novas tecnologias e criando projetos  
+Sou graduando em **Sistemas de Informação pelo IFMA** e técnico em **Manutenção e Suporte em Informática pelo IEMA**. Integro a equipe universitária de robótica **Team Two Maramaker**, com experiência anterior na equipe **Autobots (IEMA - Cururupu)**. Tenho interesse em desenvolvimento de software, automação, robótica e sistemas embarcados.
 
----
+## Atuação
 
-<!-- ## 📊 Estatísticas do GitHub
+- **Desenvolvedor Front-end - Lençóis Tecnologia** (estágio obrigatório, 2026).
+- **Monitor em Sistemas Embarcados - EmbarcaTech** (bolsista, 2024-2026).
+- **Manutenção e Suporte em Informática - Fórum Desembargador José Pires Sexto** (estágio obrigatório, 2022).
+
+## Formação
+
+- **Bacharelado em Sistemas de Informação** - IFMA, em andamento desde 2023.
+- **Técnico em Manutenção e Suporte em Informática** - IEMA, 2020–2022.
+
+## Conquistas em robótica e tecnologia
+
+- 🥇 **FIRA Nacional 2025** - 1º lugar, Carro Autônomo.
+- 🥈 **FIRA Estadual 2025** - 2º lugar, Carro Autônomo.
+- 🥉 **FIRA Americans 2026** - 3º lugar, Carro Autônomo.
+- 🥉 **RoboParty 2025** - 3º lugar, Robot Show.
+- 🏅 **FIRA Nacional 2024** - 4º lugar, classificação para o Mundial.
+- 🥇 **FIRA Estadual 2024** - 1º lugar, Labirinto.
+- 🎟️ **Universo IF 2024** - credencial conquistada para participar da **RoboParty**, em Portugal.
+- 🏅 **LNR 2024** - 4º lugar no Desafio de Entrega.
+- 🥉 **OBFEP 2022** - medalha de bronze; **FIRA Nacional 2021** - duas medalhas de prata e uma de bronze.
+
+## Idiomas
+
+- **Português:** compreende, fala, lê e escreve bem.
+- **Inglês:** compreende e lê bem; fala e escreve razoavelmente.
+
+> Consulte o currículo acadêmico e profissional completo no **[Currículo Lattes](https://lattes.cnpq.br/2614892772305367)**.
+
+## Tecnologias
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldesaa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldesaa&layout=compact&theme=aura"/>
+  <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,java,python,arduino,git,github,vite,mysql" alt="Tecnologias: React, TypeScript, JavaScript, HTML, CSS, Java, Python, Arduino, Git, GitHub, Vite e MySQL">
 </p>
 
---- -->
-
-## 🔥 Streak de contribuições
+## Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samueldesaa&theme=aura&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=samueldesaa&theme=aura&hide_border=true" alt="Sequência de contribuições no GitHub">
 </p>
-
----
-
-## 🛠️ Tecnologias que uso
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,java,python,arduino,git,github,vite,mysql" />
-</p>
-
----
-
-## 🐍 Snake de contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samueldesaa/samueldesaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samueldesaa/samueldesaa/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha com minhas contribuições do GitHub" src="https://raw.githubusercontent.com/samueldesaa/samueldesaa/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+## Projetos
+
+Confira meus projetos e repositórios no **[GitHub](https://github.com/samueldesaa?tab=repositories)**. Em breve, vou destacar aqui alguns dos trabalhos que melhor representam minha trajetória.
+
+## Contato
+
+- **LinkedIn:** [Samuel Chaves de Sá](https://www.linkedin.com/in/samuel-chaves-de-s%C3%A1-6805b91bb/)
+- **E-mail:** [samueldsa03032005@gmail.com](mailto:samueldsa03032005@gmail.com)
+- **Currículo Lattes:** [lattes.cnpq.br/2614892772305367](https://lattes.cnpq.br/2614892772305367)
 
 ---
 
-## 📌 Projetos em destaque
+<div align="center">
 
-✨ Em breve você verá aqui meus principais projetos!  
-Ou explore meus repositórios 👇
+*“Sempre evoluindo, um commit de cada vez.”* ✨
 
-<p align="center">
-  <a href="https://github.com/samueldesaa?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20Repositórios-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=samueldesaa&color=F7C873&style=flat-square" alt="Visualizações do perfil">
 
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-chaves-de-s%C3%A1-6805b91bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:samueldsa03032005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/samueldesaa">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Extras
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samueldesaa&color=F7C873&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  💡 <i>“Sempre evoluindo, um commit de cada vez.”</i>
-</p>
+</div>
